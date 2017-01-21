@@ -1,0 +1,7 @@
+[package]
+name = "dbf"
+version = "0.1.0"
+authors = ["Rory McCann <rory@technomancy.org>"]
+
+[dependencies]
+nom = "^2.0"
